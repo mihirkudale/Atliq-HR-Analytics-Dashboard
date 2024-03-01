@@ -1,1 +1,1 @@
-# HR-Analytics-Project-in-Power-BI
+# Atliq-HR-Analytics-Dashboard
